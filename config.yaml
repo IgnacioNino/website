@@ -8,8 +8,7 @@ params:
   banner:
     buttonText: Find out more
     subtitle: |-
-      WELCOME TO MY PERSONAL WEBSITE.
-      HERE YOU CAN FIND MORE ABOUT ME AND SOME OF MY WORK. ENJOY!
+      WELCOME TO MY PERSONAL WEBSITE. HERE YOU CAN FIND MORE ABOUT ME AND SOME OF MY WORK. ENJOY!
     title: Hi, my name is Ignacio Nino
     image: lbs.jpg
   blog: {}
@@ -85,11 +84,11 @@ params:
       - image: conferencia_lowquality.png
         subtitle: My life in a nutshell
         title: About me
-        url: blogs/risk_return
+        url: blogs/About_me
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/risk_return
+        subtitle: Homework 1 of course Data Science for Business
+        title: Flights analysis
+        url: blogs/homework1
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
