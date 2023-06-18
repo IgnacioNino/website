@@ -1,8 +1,8 @@
 ---
 title: "Magna"
-description: "Lorem Etiam Nullam"
+description: "Hola hola"
 slug: "magna"
-image: pic09.jpg
+image: pic08.jpg
 keywords: ""
 categories: 
     - ""
