@@ -6,11 +6,12 @@ googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Get Started
-    #subtitle: |-
-    #  A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-    #  AND RELEASED UNDER THE CREATIVE COMMONS.
+    buttonText: Find out more
+    subtitle: |-
+      WELCOME TO MY PERSONAL WEBSITE.
+      HERE YOU CAN FIND MORE ABOUT ME AND SOME OF MY WORK. ENJOY!
     title: Hi, my name is Ignacio Nino
+    image: lbs.jpg
   blog: {}
   contact:
     address:
@@ -58,37 +59,37 @@ params:
         label: LinkedIn
         url: https://www.linkedin.com/in/ignacionino/
   image: ''
-  name: Your name
+  name: Ignacio Nino
   navigation:
     button1:
-      - name: Get Started
+      - name: Explore blogs
         url: blogs
-    button2:
-      - name: Log In
-        url: '#'
+#    button2:
+#      - name: Log In
+#        url: '#'
     links:
       - name: Home
         url: '#'
-      - name: Blogs
-        url: blogs
+#      - name: Blogs
+#        url: blogs
 #      - name: Generic Blog
 #        url: blogs/ipsum
 #      - name: Elements
 #        url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: Personal website
+    title: Ignacio Nino's
   tiles:
     enable: yes
     showcase:
-      - image: lbs.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+      - image: conferencia_lowquality.png
+        subtitle: My life in a nutshell
+        title: About me
         url: blogs/risk_return
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
-        url: blogs/tempus
+        url: blogs/risk_return
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
