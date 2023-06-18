@@ -61,8 +61,8 @@ params:
   name: Ignacio Nino
   navigation:
     button1:
-      - name: Explore blogs
-        url: blogs
+      - name: COMING SOON!
+        url: '#'
 #    button2:
 #      - name: Log In
 #        url: '#'
